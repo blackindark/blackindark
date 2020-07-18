@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**blackindark/blackindark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`🤠 I am an backend developer from China.`
 
 Here are some ideas to get you started:
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Peace and Love.
+[Peace and Love].
